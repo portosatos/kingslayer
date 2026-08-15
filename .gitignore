@@ -1,0 +1,17 @@
+# Personal data — real private chat export, must never be committed
+dataset.jsonl
+result.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+gemma_fix_env/
+
+# Training artifacts
+gemma_v2_double/
+*.log
+
+# OS
+.DS_Store
